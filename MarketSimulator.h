@@ -1,0 +1,5 @@
+class MarketSimulator {
+    private:
+
+    public:
+}
